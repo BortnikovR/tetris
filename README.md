@@ -1,2 +1,1 @@
-tetris
-======
+Simple tetris using SDL
